@@ -4,7 +4,7 @@ Winnow is a small yet powerful permissions library for go.
 
 ## Install
 ```
-go get https://github.com/UnwrittenFun/winnow
+go get github.com/UnwrittenFun/winnow
 ```
 
 ## How to use
